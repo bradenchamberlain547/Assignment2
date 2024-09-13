@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+
+header {
+    background-image: url("/Pics/dragon.jpeg");
+    width: 685px;
+}
+
+#Part1 {
+    background-image: url("/Pics/gemstone.jpeg");
+    width: 625px;
+    height: 100%;
+    padding: 30px;
+}
+
+#Part2 {
+    background-image: url("/Pics/gemstone.jpeg");
+    width: 625px;
+    height: 100%;
+    padding: 30px;
+}

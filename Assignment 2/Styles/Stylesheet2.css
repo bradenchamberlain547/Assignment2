@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+
+img {
+    border-radius: 50%;
+    width: 500px;
+  }
+
+nav {
+    padding: 10px;
+}
+
+header {
+    margin-left: 70px;
+}
+
+#Part1 {
+    background-color: rgb(22, 77, 113);
+    border-radius: 10%;
+    width: 430px;
+    height: 100%;
+    padding: 50px;
+}
+
+#Part2 {
+    background-color: rgb(206, 216, 27);
+    border-radius: 10%;
+    width: 430px;
+    height: 100%;
+    padding: 50px;
+}
